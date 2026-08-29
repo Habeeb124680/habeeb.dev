@@ -81,8 +81,7 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
 }
-.text-card,
-.image-card {
+.text-card{
   width: 400px;
   margin-top: 30px;
   margin-bottom: 30px;
